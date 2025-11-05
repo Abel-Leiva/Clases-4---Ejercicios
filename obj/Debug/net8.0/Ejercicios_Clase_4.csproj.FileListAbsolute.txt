@@ -12,3 +12,4 @@
 /home/abel/Escritorio/Bootcamp-Devlights/Ejercicios_Clase_4/obj/Debug/net8.0/Ejercicios_Clase_4.pdb
 /home/abel/Escritorio/Bootcamp-Devlights/Ejercicios_Clase_4/obj/Debug/net8.0/Ejercicios_Clase_4.genruntimeconfig.cache
 /home/abel/Escritorio/Bootcamp-Devlights/Ejercicios_Clase_4/obj/Debug/net8.0/ref/Ejercicios_Clase_4.dll
+/home/abel/Escritorio/Bootcamp-Devlights/Ejercicios_Clase_4/obj/Debug/net8.0/Ejercicios_Clase_4.sourcelink.json

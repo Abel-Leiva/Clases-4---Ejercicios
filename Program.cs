@@ -273,14 +273,20 @@ while (true)
 {
     Console.WriteLine("Ingrese nombre de alumno (o fin para terminar):");
     string alumno = Console.ReadLine().Trim();
+    if (calificaciones.ContainsKey(alumno))
+    {
+        Console.WriteLine($"El alumno {alumno} ya tiene una nota ({calificaciones[alumno]}). Desea actualizarla? (s/n)");
+        string opcion = Console.ReadLine().Trim().ToLower();
+        if (opcion != "s") continue;
+    }
     if (alumno.ToLower() == "fin") break;
 
     Console.WriteLine("Ingrese la nota:");
-    string input = Console.ReadLine();
+    string? input = Console.ReadLine();
     double nota;
     if (double.TryParse(input, out nota))
     {
-        calificaciones.Add(alumno, nota);
+        calificaciones[alumno] = nota;
     }
     else
     {
