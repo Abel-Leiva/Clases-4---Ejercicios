@@ -1,0 +1,14 @@
+/home/abel/Escritorio/Bootcamp-Devlights/Ejercicios_Clase_4/bin/Debug/net8.0/Ejercicios_Clase_4
+/home/abel/Escritorio/Bootcamp-Devlights/Ejercicios_Clase_4/bin/Debug/net8.0/Ejercicios_Clase_4.deps.json
+/home/abel/Escritorio/Bootcamp-Devlights/Ejercicios_Clase_4/bin/Debug/net8.0/Ejercicios_Clase_4.runtimeconfig.json
+/home/abel/Escritorio/Bootcamp-Devlights/Ejercicios_Clase_4/bin/Debug/net8.0/Ejercicios_Clase_4.dll
+/home/abel/Escritorio/Bootcamp-Devlights/Ejercicios_Clase_4/bin/Debug/net8.0/Ejercicios_Clase_4.pdb
+/home/abel/Escritorio/Bootcamp-Devlights/Ejercicios_Clase_4/obj/Debug/net8.0/Ejercicios_Clase_4.GeneratedMSBuildEditorConfig.editorconfig
+/home/abel/Escritorio/Bootcamp-Devlights/Ejercicios_Clase_4/obj/Debug/net8.0/Ejercicios_Clase_4.AssemblyInfoInputs.cache
+/home/abel/Escritorio/Bootcamp-Devlights/Ejercicios_Clase_4/obj/Debug/net8.0/Ejercicios_Clase_4.AssemblyInfo.cs
+/home/abel/Escritorio/Bootcamp-Devlights/Ejercicios_Clase_4/obj/Debug/net8.0/Ejercicios_Clase_4.csproj.CoreCompileInputs.cache
+/home/abel/Escritorio/Bootcamp-Devlights/Ejercicios_Clase_4/obj/Debug/net8.0/Ejercicios_Clase_4.dll
+/home/abel/Escritorio/Bootcamp-Devlights/Ejercicios_Clase_4/obj/Debug/net8.0/refint/Ejercicios_Clase_4.dll
+/home/abel/Escritorio/Bootcamp-Devlights/Ejercicios_Clase_4/obj/Debug/net8.0/Ejercicios_Clase_4.pdb
+/home/abel/Escritorio/Bootcamp-Devlights/Ejercicios_Clase_4/obj/Debug/net8.0/Ejercicios_Clase_4.genruntimeconfig.cache
+/home/abel/Escritorio/Bootcamp-Devlights/Ejercicios_Clase_4/obj/Debug/net8.0/ref/Ejercicios_Clase_4.dll
